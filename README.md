@@ -1,1 +1,1 @@
-# RNG-Desktop
+# Operations RNG - Desktop Edition
